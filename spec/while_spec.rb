@@ -7,3 +7,9 @@ describe "#using_while" do
 	expect{ using_while }.to output(looping_string).to_stdout
 	end
 end
+
+
+
+
+room = ["Anna", "Robert", "Karlie Kloss"]
+puts room
